@@ -1,0 +1,3 @@
+#Evitem que es vegin la carpeta obj i bin
+*obj
+*bin
